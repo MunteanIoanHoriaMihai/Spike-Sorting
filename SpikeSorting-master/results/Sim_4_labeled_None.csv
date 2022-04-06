@@ -1,0 +1,8 @@
+Algor,ARI-a,AMI-a,ARI-n,AMI-n,FMI-a
+<<<<<<< HEAD
+K-means,0.586,0.717,0.569,0.699,0.720
+=======
+K-means,0.561,0.735,0.777,0.810,0.702
+>>>>>>> negru
+DBSCAN
+S.B.M.

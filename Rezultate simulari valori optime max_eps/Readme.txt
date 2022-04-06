@@ -1,0 +1,1 @@
+Acest folder contine rezultatele clusterizarii cu algoritmul OPTICS a mai multor simulari (1,2,3,5,13,14,34), luand in considerare diferite dimensiuni (10,11,12,13,14,15,16,17,18,19,20) si diferite valori ale parametrului max_eps a algoritmului OPTICS pentru fiecare simulare. 

@@ -1,0 +1,11 @@
+Pipeline step 0 applying stft
+Applying metric mahalanobis with threshold 0.67
+0.6187697445896605
+0.7669944784427813
+Deleted cluster 1
+0.7351190129247672
+Deleted cluster 2
+0.6706807359414695
+Deleted cluster 3
+0.6816369422366406
+Deleted cluster 4

@@ -1,0 +1,78 @@
+
+11D 0.5 :
+Adjusted Rand Index (ARI):-0.001
+Adjusted Mutual Info Score (AMI):0.01
+Fowlkes Mallows Index (FMI):0.311
+V-Measure (VM):0.02
+SS-Metric:0.059
+
+11D 0.55 :
+Adjusted Rand Index (ARI):-0.008
+Adjusted Mutual Info Score (AMI):0.158
+Fowlkes Mallows Index (FMI):0.248
+V-Measure (VM):0.245
+SS-Metric:0.059
+
+11D 0.6000000000000001 :
+Adjusted Rand Index (ARI):0.159
+Adjusted Mutual Info Score (AMI):0.419
+Fowlkes Mallows Index (FMI):0.34
+V-Measure (VM):0.518
+SS-Metric:0.38
+
+11D 0.6500000000000001 :
+Adjusted Rand Index (ARI):0.403
+Adjusted Mutual Info Score (AMI):0.539
+Fowlkes Mallows Index (FMI):0.516
+V-Measure (VM):0.626
+SS-Metric:0.49
+
+11D 0.7000000000000002 :
+Adjusted Rand Index (ARI):0.262
+Adjusted Mutual Info Score (AMI):0.444
+Fowlkes Mallows Index (FMI):0.459
+V-Measure (VM):0.571
+SS-Metric:0.425
+
+11D 0.7500000000000002 :
+Adjusted Rand Index (ARI):0.273
+Adjusted Mutual Info Score (AMI):0.506
+Fowlkes Mallows Index (FMI):0.481
+V-Measure (VM):0.644
+SS-Metric:0.529
+
+11D 0.8000000000000003 :
+Adjusted Rand Index (ARI):0.154
+Adjusted Mutual Info Score (AMI):0.368
+Fowlkes Mallows Index (FMI):0.414
+V-Measure (VM):0.526
+SS-Metric:0.353
+
+11D 0.8500000000000003 :
+Adjusted Rand Index (ARI):0.154
+Adjusted Mutual Info Score (AMI):0.372
+Fowlkes Mallows Index (FMI):0.416
+V-Measure (VM):0.536
+SS-Metric:0.353
+
+11D 0.9000000000000004 :
+Adjusted Rand Index (ARI):0.154
+Adjusted Mutual Info Score (AMI):0.374
+Fowlkes Mallows Index (FMI):0.417
+V-Measure (VM):0.542
+SS-Metric:0.353
+
+11D 0.9500000000000004 :
+Adjusted Rand Index (ARI):0.052
+Adjusted Mutual Info Score (AMI):0.157
+Fowlkes Mallows Index (FMI):0.352
+V-Measure (VM):0.272
+SS-Metric:0.176
+
+11D 1.0000000000000004 :
+Adjusted Rand Index (ARI):0.052
+Adjusted Mutual Info Score (AMI):0.157
+Fowlkes Mallows Index (FMI):0.352
+V-Measure (VM):0.273
+SS-Metric:0.176
+0.65000000000000010.65000000000000010.65000000000000010.75000000000000020.7500000000000002

@@ -1,0 +1,41 @@
+Pipeline step 0 applying stft
+Applying metric mahalanobis with threshold 0.67
+0.553578732668308
+0.6154227624247276
+0.6604738665555349
+0.6459071765663618
+Pipeline step 1 applying hil
+Applying metric mahalanobis with threshold 0.65
+0.540927271056388
+0.5018228980189771
+0.585958522058432
+0.5758096582088433
+Applying metric canberra with threshold 0.65
+0.2517313564393074
+0.2731294731099659
+0.6586793258551359
+Deleted cluster 2
+0.5835757405139927
+Pipeline step 2 applying slt
+done
+Applying metric euclidean with threshold 0.7
+0.38844320139193567
+0.7295823735427384
+Deleted cluster 1
+0.6577391346358823
+Pipeline step 3 applying stft
+Applying metric mahalanobis with threshold 0.67
+0.49147678754557933
+0.6005531721535446
+Pipeline step 4 applying hil
+Applying metric mahalanobis with threshold 0.65
+0.47393535982186746
+0.6125551966753805
+Applying metric canberra with threshold 0.65
+0.1351510077015849
+0.5474357579486274
+Pipeline step 5 applying slt
+done
+Applying metric euclidean with threshold 0.7
+0.30985444500198034
+0.6102029392747185

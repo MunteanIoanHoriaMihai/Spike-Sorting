@@ -1,0 +1,20 @@
+Pipeline step 0 applying stft
+Applying metric mahalanobis with threshold 0.67
+0.5135458826575635
+0.561025178164907
+0.5731459192847533
+Pipeline step 1 applying hil
+Applying metric mahalanobis with threshold 0.65
+0.49874258016879247
+0.32705088940379357
+0.27362558390427955
+Applying metric canberra with threshold 0.65
+0.16200391230143163
+0.317453864782211
+0.15486488938827983
+Pipeline step 2 applying slt
+done
+Applying metric euclidean with threshold 0.7
+0.6781918586439056
+0.3870067101230148
+0.41144715541834354
